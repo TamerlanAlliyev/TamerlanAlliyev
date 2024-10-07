@@ -3,7 +3,7 @@
   <p>
     <i>You can reach out to me via</i>
     <a href="mailto:[your-email]">
-      <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/Gmail.gif" width="100"/>
+      <img align="center" src="https://github.com/TamerlanAlliyev/TamerlanAlliyev/blob/main/icons/Gmail.gif" width="100"/>
     </a>
   </p>
 </details>
